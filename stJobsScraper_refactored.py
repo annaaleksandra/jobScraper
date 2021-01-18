@@ -36,5 +36,5 @@ def createCSV():
     browser.quit()
 
 
-fillForm('Data Analyst', 'Scotland', 24)
+fillForm('Data Analyst', 'Scotland')
 createCSV()
